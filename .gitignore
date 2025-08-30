@@ -1,0 +1,12 @@
+.ssh/
+*.pem
+*.pub
+.bashrc
+.bash_logout
+.profile
+.viminfo
+.lesshst
+.sudo_as_admin_successful
+.ansible/
+.cache/
+
