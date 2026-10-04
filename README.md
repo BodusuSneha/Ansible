@@ -59,12 +59,6 @@ ansible-playbook -i inventory.ini main.yml -u ubuntu --private-key <path-to-key.
 
 Then open `http://<server-ip>` for each server to see the page.
 
-## Screenshots
-
-Add to a `screenshots/` folder:
-- Successful `ansible-playbook` run (PLAY RECAP with `failed=0`)
-- The page served by Nginx in the browser
-
 ## What I Learned
 
 - Writing playbooks and organizing hosts in an inventory
